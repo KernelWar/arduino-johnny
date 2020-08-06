@@ -10,21 +10,21 @@ var clienteServer = require('socket.io-client')('http://localhost:8080');
 
 Para usar el sensor de proximidad con johnny-five es necesario grabar PingFirmata(este firmware se encuentra en proximidad/pingFirmata) en el Arduino, en los proyectos distintos a este usar StandardFirmata
 
-##Diagramas
-###Sensor de humedad DTH11
-<img src="capturas/ddth11.jpg">
+## Diagramas
+### Sensor de humedad DTH11
+<img width="200" src="capturas/ddth11.jpg">
 
-###Sensor de humedad YL-69
-<img src="capturas/dhumedad.jpg">
+### Sensor de humedad YL-69
+<img width="200" src="capturas/dhumedad.jpg">
 
-###Sensor de luz
-<img src="capturas/dluz.png">
+### Sensor de luz
+<img width="200" src="capturas/dluz.png">
 
-###Motor DC
-<img src="capturas/dmotor.png">
+### Motor DC
+<img width="200" src="capturas/dmotor.png">
 
-###Led RGB
-<img src="capturas/drgb.png">
+### Led RGB
+<img width="200" src="capturas/drgb.png">
 
-###Sensor de velocidad RPM LM393
-<img src="capturas/drpm.png">
+### Sensor de velocidad RPM LM393
+<img width="200" src="capturas/drpm.png">
