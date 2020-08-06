@@ -1,8 +1,8 @@
 ## Arduino con Johnny Five
 - Cada proyecto de arduino crea un servidor independiente (archivo main.js)
-- El servidor es ejecutado por default con la siguiente configuración:
+- El servidor es ejecutado por default(el puerto puede variar) con la siguiente configuración:
 ```
-var clienteServer = require('socket.io-client')('http://localhost:4088');
+var clienteServer = require('socket.io-client')('http://localhost:8080');
 ```
 - El puerto de arduino en este caso es el COM3 o COM4 pero esto depende de su configuración local
 
