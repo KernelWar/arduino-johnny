@@ -27,4 +27,4 @@ Para usar el sensor de proximidad con johnny-five es necesario grabar PingFirmat
 <img width="200" src="capturas/drgb.png">
 
 ### Sensor de velocidad RPM LM393
-<img width="200" src="capturas/drpm.png">
+<img width="200" src="capturas/drpm.jpg">
